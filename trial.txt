@@ -1,0 +1,8 @@
+PK43,Marshmelo Pink,2000,Pink,Epoxy,Asian Paint,Wall Paint,High,20
+PK96,Lays Green,400,Green,Calcium,Kensai Nerolac,House Paint,Medium,100
+CS100,MarsPP40,5000,Brown,Acrylic,Pashupati Paint,Spray Paint,Mild,5
+YU2009,Cotton44,50,White,Epoxy,Apollo Paint,Auto Mobiles,High,5000
+CU342,Pluto,1000,Ash Grey,Acrylic,Asian Paint,Wall Paint,Mild,200
+PR1007,Parot Green,1000,Green,Calcium,Pashupati Paint,Spray Paint,High,1300
+PO1900D,Dark Black,2000,Black,Calcium,Kensai Nerolac,House Paint,High,100
+RTE345,YOLO,55,Black,Calcium,Pashupati Paint,Auto Mobiles,Mild,22
